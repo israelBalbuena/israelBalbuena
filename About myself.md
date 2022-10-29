@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Israel Balbuena.
-- 👀 I’m interested in social policy, data sciencie and public finance.
+- 👀 I’m interested in social policy, data science and public finance.
 - 🌱 I’m currently learning Django and I’d like to learn other frameworks.
 - 💞️ I’m looking to collaborate at projects about public data, econometrics and public spending. 
 - 📫 You could reach me through email or twitter.
